@@ -159,10 +159,6 @@ section {
 .secondary-border {
     border-color: #39a6b2
 }
-.steps div {
-    margin-bottom: 80px;
-}
-
 .step h3 {
     color: #024e76;
     font-size: 46px;
